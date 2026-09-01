@@ -32,3 +32,7 @@ npm run preview
 ```
 
 Or push to Vercel / Netlify for a live demo URL.
+
+## Screenshots
+
+![Animated UI Showcase](https://raw.githubusercontent.com/Diyaneshwar-Pugazhendhi/animated-ui-showcase/main/screenshots/animated-ui.png)
