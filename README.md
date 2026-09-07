@@ -1,4 +1,7 @@
-# Animated UI Showcase
+# Motionlab
+
+![CI](https://github.com/Diyaneshwar-Pugazhendhi/Motionlab/actions/workflows/ci.yml/badge.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 A standalone demo/showcase of dynamic, animated UI built with **React + Vite + TypeScript + Tailwind + Framer Motion** (Aceternity-style). Made for previewing and demoing motion-rich components.
 
@@ -23,6 +26,10 @@ Then open the printed local URL (usually http://localhost:5173).
 ## Extend it
 
 Drop new sections into `src/App.tsx` and new components into `src/components/`. The `SpotlightCard` wrapper and `text-gradient` / `bg-grid` utilities are reusable building blocks.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please see [CONTRIBUTING.md](.github/CONTRIBUTING.md) for setup instructions and guidelines.
 
 ## Deploy
 
